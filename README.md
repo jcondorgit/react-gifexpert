@@ -1,4 +1,6 @@
-# React + Vite
+# GifExpertApp React + Vite
+
+This is my repository of the project GiftExpertApp from React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
